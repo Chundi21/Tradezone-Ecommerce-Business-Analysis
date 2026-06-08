@@ -6,11 +6,10 @@ SQL-driven business analysis on TradeZone's Nigerian e-commerce database, uncove
 
 ## Overview
 
-Raw data sitting in a database doesn't make decisions — analysis does. This project takes TradeZone's transaction and customer data and turns it into something a business can act on: a clear picture of where revenue is coming from, where it isn't, and why the gap between Lagos and Kano isn't just a volume problem.
+Raw data sitting in a database doesn't make decisions; analysis does. This project takes TradeZone's transaction and customer data and turns it into something a business can act on: a clear picture of where revenue is coming from, where it isn't, and why the gap between Lagos and Kano isn't just a volume problem.
 
-The deliverable wasn't just queries. It was an executive memo — written for a non-technical audience — translating every finding into a concrete recommendation.
+The deliverable wasn't just queries. It was an executive memo written for a non-technical audience, translating every finding into a concrete recommendation.
 
----
 
 ## Tech Stack
 
@@ -18,7 +17,6 @@ The deliverable wasn't just queries. It was an executive memo — written for a 
 - **Language:** SQL
 - **Output:** Executive Business Memo
 
----
 
 ## The Analysis
 
@@ -77,10 +75,3 @@ tradezone-sql-analysis/
 │   └── tradezone_executive_memo.pdf
 └── README.md
 ```
-
----
-
-## Author
-
-**Machundi M. Zando** — Data Analyst  
-[linkedin.com/in/machundi-zando](https://linkedin.com/in/machundi-zando) · [github.com/Chundi21](https://github.com/Chundi21)
